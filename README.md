@@ -1,4 +1,4 @@
-# foodmenuvue
+# foodmenu
 
 ## Project setup
 ```

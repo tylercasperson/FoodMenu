@@ -11,6 +11,7 @@ export default {
         btnType: String
     }
 }
+
 </script>
 
 <style scoped>
@@ -21,6 +22,8 @@ export default {
     width: 150px;
     font-size: 8pt;
     justify-content: center;
-    padding: 0.7%;
+    align-items: center;
 }
+
+
 </style>
